@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/816. Ambiguous Coordinates/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1684.Count the Number of Consistent Strings/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/864. Shortest Path to Get All Keys/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1704. Determine if String Halves Are Alike/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/790. Domino and Tromino Tiling/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

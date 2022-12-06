@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d06a3ef0-6503-41de-b8dc-0298e102d583" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Course/algorithm-primary/src/class03/Code01_ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Course/algorithm-primary/src/class03/Code02_DeleteGivenValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1684.Count the Number of Consistent Strings/src/Solution1684.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1704. Determine if String Halves Are Alike/src/Solution1704.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../816. Ambiguous Coordinates/src/Solution816.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../864. Shortest Path to Get All Keys/src/Solution864.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Course/algorithm-primary/src/class02/Code03_KM.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Course/algorithm-primary/src/class02/Code03_KM.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2HRcfSp94WvLkITd7IG0jEjp5VO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="Debugger_Data_Views_Java" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d06a3ef0-6503-41de-b8dc-0298e102d583" name="Default Changelist" comment="" />
+      <created>1668251439586</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668251439586</updated>
+      <workItem from="1668251443688" duration="3000" />
+    </task>
+    <servers />
+  </component>
+</project>

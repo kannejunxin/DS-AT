@@ -48,7 +48,7 @@ public class Code03_KM {
                 ans |= (1<<i);
             }
         }
-        return ans;
+        return ans;//这里是指明出现k次的数为0
     }
 
     //~~~~~~~对数器  要看懂
